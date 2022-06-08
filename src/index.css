@@ -68,7 +68,7 @@ textarea:focus {
 }
 
 .note {
-  background-color: green;
+  background-color: white;
   border-radius: 10px;
   padding: 1rem;
   min-height: 170px;
